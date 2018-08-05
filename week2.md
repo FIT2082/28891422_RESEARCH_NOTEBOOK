@@ -20,7 +20,7 @@ We have a large dataset of more than a dozen monash rooms and in it we have; **r
 
 By next week I hope I can prepare a data_cleaning function which would be quite handy for us as there are many rooms we need to analyse. We must also produce some plots on outside and inside temp. Also work on project proposal draft.
 
-I'd also like to cluster the data into four segments as suggested by Dr Christoph and Dr Arnaud
+We'd also like to cluster the data into four segments as suggested by Dr Christoph and Dr Arnaud
 
 1. When AC is off and room temp is lower than outside temp
 2. When AC is off and room temp is higher than outside temp
