@@ -27,4 +27,4 @@ I'd also like to cluster the data into four segments as suggested by Dr Christop
 1. When AC is off and room temp is lower than outside temp
 2. When AC is off and room temp is higher than outside temp
 3. When AC is on and room temp is lower than outside temp
-4. When AC is on and room temp is higher than outside temp
+4. When AC is on and room temp is higher than outside tempgi
