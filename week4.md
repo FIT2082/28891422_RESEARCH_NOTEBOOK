@@ -15,5 +15,5 @@ In the meeting we decided we need to visualize our dataset properly by looking a
 
 Our plan we are setting out is below
 
-![Proposed Timeline](timeline.PNG)
+![Proposed Timeline](plots/timeline.PNG)
 

@@ -9,7 +9,7 @@ This week has been very good as we were able to achieve quite a lot.
 
 ## Some examples of the heat detection function at work
 
-![AC Heating 1](heat_detection_1.PNG)
+![AC Heating 1](plots/heat_detection_1.PNG)
 
 The algorithim used to detect this has plenty of heuristics involved. Some points are listed below
 
@@ -17,7 +17,7 @@ The algorithim used to detect this has plenty of heuristics involved. Some point
 * How many same values should we accept before cutting the portion of the day as heating
 
 
-![AC Heating 2](heat_detection_2.PNG)
+![AC Heating 2](plots/heat_detection_2.PNG)
 
 ## plans for next week 
 

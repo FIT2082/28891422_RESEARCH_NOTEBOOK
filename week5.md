@@ -7,13 +7,13 @@
 
 * We have a variable AC_Status which tells us when the AC is on. However in the analysis we found out that most of it seems to be off.
 
-![Not correct labelling](fault.PNG)
+![Not correct labelling](plots/fault.PNG)
 
 As you can see from above that the points are not correctly labelled. The rise of tempreture must indicate some type of AC behaviour where as it switches on. This lead us to all question the significance and accuracy of the Ac_status. We planned to ask this question to the data provider.
 
 However we did not let this go as it is. We trialled with another variable that looked similiar and it's output made more sense eventhough we don't its meaning.
 
-![Looks kind of accurate](other.PNG)
+![Looks kind of accurate](plots/other.PNG)
 
 
 ## Plans for next week 

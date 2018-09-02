@@ -17,9 +17,9 @@ Currently we are analysing room tempreture and trying to identify the rate of co
 
 These are some plots of the distrubution of tempreture across the year and also a histogram is provided just to get an idea of how the data looks 
 
-![Room Tempreture across six months](room_temp.png)
+![Room Tempreture across six months](plots/room_temp.png)
 
-![Room Temp histogram](room_temp_hist.png)
+![Room Temp histogram](plots/room_temp_hist.png)
 
 ## Plans for next week
 
