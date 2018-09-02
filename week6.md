@@ -11,7 +11,7 @@ This week has been very good as we were able to achieve quite a lot.
 
 ![AC Heating 1](heat_detection_1.PNG)
 
-This algorithim used to detect this has plenty of heuristics involved. Some points are listed below
+The algorithim used to detect this has plenty of heuristics involved. Some points are listed below
 
 * How much offset by degrees should be the setpoint to cut line
 * How many same values should we accept before cutting the portion of the day as heating
