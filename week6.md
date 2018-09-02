@@ -19,7 +19,7 @@ The algorithim used to detect this has plenty of heuristics involved. Some point
 
 ![AC Heating 2](plots/heat_detection_2.PNG)
 
-## plans for next week 
+## Plans for next week 
 
 We have everything we need to analyse rate of changes further and model our rates of changes to what we choose.
 Our plan for next meeting is what should we model against rate of change in room tempreture when AC turns on.
