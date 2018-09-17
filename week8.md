@@ -29,7 +29,7 @@ We quickly wanted to see if we're getting something from the reforms we made to 
 
 The plot below is looking at rate of change in heating vs start temp
 
-![Rate vs Start temp](plots/rates_per_90_days.PNG)
+![Rate vs Start temp](plots/rates_per_90_days.png)
 
 We can see some logarithmic relationship which is a good start
 
