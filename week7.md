@@ -17,3 +17,5 @@ I also had the chance to work on the cooling detection algorithim which required
 4. Primary candidates are rate of change vs start room temp vs (maybe average room temp across time interval)
 4. Tweak all the function so that we can use them for the other rooms effortlessly
 
+
+
