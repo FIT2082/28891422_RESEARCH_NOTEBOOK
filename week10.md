@@ -52,7 +52,7 @@ Using eps classification which is mainly used in regression. The squre mean erro
 
 ### Random Forest
 
-For random forest we chose to fit 500 decision trees 
+For random forest we chose to fit 500 decision trees however it might not be the optimal number. Also we found it had a mean error of 0.091
 
 ![Random Forest actual vs predicted](plots/randomForest.png)
 
