@@ -3,11 +3,11 @@
 
 ## Updates
 
-This week we were able to reach our objective we set at the start of the semester. We we were able to model our data and cross validate it
+This week we were able to reach our objective we set at the start of the semester. We were able to model our data and cross validate it
 
 ## Modelling
 
-For modelling we we used 3 machine learning algorithms 
+For modelling we used 3 machine learning algorithms 
 
 
 * Random Forest 
